@@ -13,15 +13,15 @@ I assume the target audience of this Virtual PingPong Game as the followings:
 > Hilary is very excited to try on such new device based game,  High Immersion HMD VR, to play at these days. 
 
 ## Game Control
-Oculus' Rift Touch Contorller based movements supports.
+Oculus' Rift Touch Controller based movements supports.
 * Left Controller: control locomotion and hit the ball.
 >> <li><b>Trigger button</b> hold & release: Hit the ball by the left hand to head to the target. </li>
->> <li><b>Grab button</b> holdding: Walking locomotion to the left direction. </li>
+>> <li><b>Grab button</b> holding: Walking locomotion to the left direction. </li>
 >> <li><b>A button</b> press: Tune on the menu. </li>
 
 * Right Controller: control locomotion and hit the ball.
 >> <li><b>Trigger button</b> hold & release: Hit the ball by right hand to head to the target. </li>
->> <li><b>Grab button</b> holdding: Walking locomotion to the right direction. </li>
+>> <li><b>Grab button</b> holding: Walking locomotion to the right direction. </li>
 >> <li><b>X button</b> press: Tune off the menu. </li>
 
 * Voice Control: using a game item by calling massage.
