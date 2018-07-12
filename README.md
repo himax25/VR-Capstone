@@ -18,6 +18,7 @@ This might be the first try for High Immersion Unity with VR development as a FT
 [for playing Youtube video here](https://youtu.be/Wb9o5GQAqC8)
 
 # Design of this project
+![screenshot](https://github.com/himax25/VR-Capstone/blob/master/Screenshots/GameScenarioSketch.JPG)
 ## Building up game mechanism, Features and Dependencies: 
 1. 3D Models for 2 hands local avatars to play the game.
 2. Cube Skybox for game room with Obstacle brick walls.
