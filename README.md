@@ -26,6 +26,7 @@ Oculus' Rift Touch Contorller based movements supports.
 
 * Voice Control: using a game item by calling massage.
 >> <li><b>Say "Max"</b> during playing game to make the one step bigger room when the player is in danger.</li>
+>> <li><b>Say "Let's play"</b> at training room to start the game.</li>
 
 ## How to play the Game
 1. The player should defence the behide wall from bouncing balls in the game room by 2 hands.
@@ -33,7 +34,7 @@ Oculus' Rift Touch Contorller based movements supports.
 3. The game room will be getting narrower from the left and the right sides if the player got failed 
  to defend these bounced balls from bounding.
 4. The game room will be getting bigger back at both sides if the player either grabs the golden ball or says "Max".
-5. Saying "Max" to use the game item, which is only available 3 times in playing.
+5. Saying "Max" to use the game item, which is only available 3 times in playing the whole game.
 ![youtubelink](https://github.com/himax25/VR-Capstone/Screenshots/YouTubesitelink.JPG)
 [for playing Youtube video here](https://youtu.be/Wb9o5GQAqC8)
 
@@ -62,16 +63,36 @@ which consumed player physical movement calories with the survival time on the s
 ## Training Room
 * Set up the ball throwing position to get ready to play the game by the locomotion transform.
 * Throwing a ball to hit the target thru bouncing walls.
-* Say "Ok go" to play the level 1.
+* Say "Ok Let's play" to play the level 1.
 
 ## Level I
+There are 3 targets on the front wall. The player will achieve the mission on this level when the bounced ball hits all 3 targets.
+* The game room will be shrink from both edge sides into the inside every 30 sec. 
+* The player needs to achieve the mission in 2 min: 3 step shrinks.
+* The player will fail to achieve the mission if either the time over or lost ball 3 times.
+* The player may use the game item, called by "Max", to make the game room one step bigger back at the game: it only allows 1 time to use the item per each level.   
+* The player needs to play again if the player got failed.
+< 관련 그림>
 
 ## Level II
+There are 3 targets on the front wall. The player will achieve the mission on this level when the bounced ball hits all 3 targets.
+* The game room will be shrink from 4 edge sides, Left, Right , Upper, and Bottom, with popping up the brick wall into the center every 30 sec. 
+* The player needs to achieve the mission in 2 min: 3 step shrinks.
+* The player will fail to achieve the mission if either the time over or lost ball 3 times.
+* The speed of bounced ball will 1.5 times faster than level I.
+The player may use the game item, called by "Max", to make the game room one step bigger back at the game: it only allows 1 time to use the item per each level.   
+* The player needs to play again if the player got failed.
+< 관련 그림>
 
 ## Level III
-
-## The target platform for this capstone project
-The target platform of this project is Oculus' Rift with Touch controllers.
+There are 3 targets on the front wall. The player will achieve the mission on this level when the bounced ball hits all 3 targets.
+* The game room will randomly shrink from 4 edge sides, Left, Right, Upper, and Bottom, with popping up and down the brick wall into the center every 30 sec.  
+* The player needs to achieve the mission in 2 min: 3 step shrinks.
+* The player will fail to achieve the mission if either the time over or lost ball 3 times.
+* The speed of bounced ball will 1.5 times faster than level II.
+* The player may use the game item, called by "Max", to make the game room one step bigger back at the game: it only allows 1 time to use the item per each level.   
+* The player needs to play again if the player got failed.
+< 관련 그림>
 
 # Optimizing of this Virtual PingPoing game
 ## Tuning up the performance and game design
@@ -98,6 +119,9 @@ It is a pretty tough o..........
 - OVRPlugin v1.27.0 & Bundled version 1.14.1 
 - Oculus Avatar SDK v1.28.0
 - Test Platform: Windows 10 Home Edition 64 Bit OS /w Oculus Rift HMD
+
+## The target platform for this capstone project
+The target platform of this project is Oculus' Rift with Touch controllers.
 
 ## Free Assets to download from online Store for this game. 
 - ownload Oculus SDK Package v1.27.0 and v1.28.0 from Oculus website;
