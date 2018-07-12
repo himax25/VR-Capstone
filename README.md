@@ -29,7 +29,7 @@ Oculus' Rift Touch Controller based movements supports.
 >> <li><b>Say "Let's play"</b> at training room to start the game.</li>
 
 ## How to play the Game
-1. The player should defence the behide wall from bouncing balls in the game room by 2 hands.
+1. The player should defence the behind wall from bouncing balls in the game room by 2 hands.
 2. The player should defend behind the wall from re-bouncing balls in the game room with two hands.
 3. The game room will be getting narrower from the left and the right sides if the player got failed 
  to defend these bounced balls from bounding.
