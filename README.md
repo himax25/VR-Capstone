@@ -9,7 +9,7 @@ This might be the first try for High Immersion Unity with VR development as a FT
 
 ## Persona: a typical user
 I assume the target audience of this Virtual PingPong Game as the followings:
-* **Hilary Lee**, 12, a Girl, Middle School student.
+* **Hilary Lee**, 14, a Girl, Middle School student.
 > Hilary is very excited to try on such new device based game,  High Immersion HMD VR, to play at these days. 
 
 ## Game Control
@@ -115,9 +115,12 @@ It is a pretty tough o..........
 ## Versions
 - Unity 2017.2.0f3
 - GVR Unity SDK v1.60.0
-- Oculus Utilities v1.25.1 
+- Oculus Utilities v1.27.0
+- Oculus Avatar SDK v1.27.0
+- Oculus Platform SDK 1.24.0
+
 - OVRPlugin v1.27.0 & Bundled version 1.14.1 
-- Oculus Avatar SDK v1.28.0
+
 - Test Platform: Windows 10 Home Edition 64 Bit OS /w Oculus Rift HMD
 
 ## The target platform for this capstone project
@@ -128,3 +131,5 @@ The target platform of this project is Oculus' Rift with Touch controllers.
 >> (1) Oculus Avatar SDK and Oculus Integration SDK scripts for OVRPlayer Controllers and OVRCameraRig
 - Download Background Music from Unity Asset Store;
 >> (1) Absolutely Free Music, Vertex Studio
+- Download Skybox from Unity Asset Store;
+>> (1) SpaceSkies Free, Night Sound Games
