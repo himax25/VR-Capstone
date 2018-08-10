@@ -127,9 +127,10 @@ It is a pretty tough o..........
 The target platform of this project is Oculus' Rift with Touch controllers.
 
 ## Free Assets to download from online Store for this game. 
-- ownload Oculus SDK Package v1.27.0 and v1.28.0 from Oculus website;
+- Download Oculus SDK Package v1.27.0 from Oculus website;
 >> (1) Oculus Avatar SDK and Oculus Integration SDK scripts for OVRPlayer Controllers and OVRCameraRig
-- Download Background Music from Unity Asset Store;
+- Download Background Music & FX Sounds from Unity Asset Store;
 >> (1) Absolutely Free Music, Vertex Studio
+>> (2) Epic Game Hits SFX, EPIC SOUNDS AND FX
 - Download Skybox from Unity Asset Store;
 >> (1) SpaceSkies Free, Night Sound Games
